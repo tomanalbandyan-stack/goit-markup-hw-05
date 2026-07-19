@@ -103,6 +103,10 @@ margin-left: 83px;
   height: 40px;
   padding-left: 16px;
 
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+
   color: #fff;
   background-color: transparent;
 
@@ -133,6 +137,8 @@ margin-left: 83px;
   padding: 8px 24px;
   max-width: 165px;
 
+  font-size: 16px;
+  letter-spacing: 0.04em;
   font-weight: 500;
   line-height: 1.5;
   color: #fff;
